@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexander\\Desktop\\novhatec1\\NovhaTec1\\NovhaTec1.csproj",
+      "projectUniqueName": "c:\\Users\\Alexander\\Desktop\\novhatec1\\Novhatec1-1\\NovhaTec1.csproj",
       "projectName": "NovhaTec1",
-      "projectPath": "C:\\Users\\Alexander\\Desktop\\novhatec1\\NovhaTec1\\NovhaTec1.csproj",
+      "projectPath": "c:\\Users\\Alexander\\Desktop\\novhatec1\\Novhatec1-1\\NovhaTec1.csproj",
       "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexander\\Desktop\\novhatec1\\NovhaTec1\\obj\\",
+      "outputPath": "c:\\Users\\Alexander\\Desktop\\novhatec1\\Novhatec1-1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexander\\AppData\\Roaming\\NuGet\\NuGet.Config"

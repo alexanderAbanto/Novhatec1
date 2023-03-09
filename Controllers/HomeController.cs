@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using NovhaTec1.Models;
 
 namespace NovhaTec1.Controllers;
-
+//hola mundo
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
